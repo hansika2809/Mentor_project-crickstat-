@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,best_strikerate1,0.114341766,1,Best batsman's strike rate in last 15 games
+2,team_count_50runs_last15,0.07018249,2,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+3,team_avg_economy_last5,0.056233898,3,Ratio of team1's avg economy to team2's avg economy in last 5 games
+4,best_batsman1,0.050250914,4,Best batsman's runs in last 15 games
+5,team_avg_wickets_last15,0.05019284,5,Ratio of team1's avg wickets to team2's avg wickets in last 15 games
+6,runsratio,0.04912361,6,ratio of team 1s runs in last 15 games to team2s runs
+7,team_count_30runs_last15,0.04861224,7,Ratio of number of 30s by players in team1 to number of 30s by players in team2 in last 15 games
+8,team_winp_last5,0.04206943,8,Ratio of team1's win % to team2's win % in last 5 games
+9,best_economy1,0.04104391,9,Best bowler's economy in last 15 games
+10,wicketsratio,0.040506635,10,Ratio of team1's wickets to team2's wickets in last 15 games
